@@ -25,7 +25,6 @@ A-Chat-App is a full-stack real-time messaging web application built using moder
 
 ### Backend
 - **Node.js**: JavaScript runtime for building RESTful APIs.
-- **Express.js**: Framework for creating the server and handling API requests.
 - **Pusher**: Enables real-time messaging with channels and events.
 - **bcryptjs**: Provides password hashing for secure user authentication.
 - **Mongoose**: Manages MongoDB interactions with an elegant schema-based solution.
