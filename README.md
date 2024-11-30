@@ -31,9 +31,3 @@ A-Chat-App is a full-stack real-time messaging web application built using moder
 - **Backend**: Integrated with Vercel, ensuring fast and reliable API delivery.
 
 ---
-
-#### **Steps**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/HimanshuR321/A-Chat-App.git
-   cd A-Chat-App
