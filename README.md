@@ -6,7 +6,7 @@ A-Chat-App is a full-stack real-time messaging web application built using moder
 ---
 
 ### **Features**
-- **User Authentication**: Secure login and registration using JWT.
+- **User Authentication**: Secure login and registration using Next-auth.
 - **One-on-One Chat**: Send and receive real-time messages between users.
 - **Group Chat**: Create and join group conversations seamlessly.
 - **Real-Time Messaging**: Powered by Socket.IO for instant message delivery.
@@ -22,23 +22,15 @@ A-Chat-App is a full-stack real-time messaging web application built using moder
 #### **Backend**
 - **Node.js**: JavaScript runtime for building RESTful APIs.
 - **Express.js**: Framework for creating the server and handling API requests.
-- **Socket.IO**: Enables real-time communication between the client and server.
 
 #### **Database**
 - **MongoDB**: A NoSQL database for storing user and chat data, ensuring scalability.
 
 #### **Deployment**
-- **Frontend**: Hosted on [Vercel](https://vercel.com/).
+- **Frontend**: Hosted on [Vercel]([https://vercel.com/](https://a-chat-app.vercel.app/)).
 - **Backend**: Integrated with Vercel, ensuring fast and reliable API delivery.
 
 ---
-
-### **Installation**
-Follow these steps to set up the project locally:
-
-#### **Prerequisites**
-- Node.js and npm installed
-- MongoDB instance running locally or on the cloud (e.g., MongoDB Atlas)
 
 #### **Steps**
 1. **Clone the Repository**:
