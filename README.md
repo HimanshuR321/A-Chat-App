@@ -10,6 +10,7 @@ A-Chat-App is a full-stack real-time messaging web application built using moder
 - **Real-Time Messaging**: Enabled by `pusher` and `pusher-js`.
 - **Real-Time Picture Sharing**: Enabled by `next-cloudinary`.
 - **Profile/Group Profile Change**: Enabled by `next-cloudinary`.
+- **Time Monitor**: Time is also visible with the chat when it was sent and when it was received with the help of `date-fns`.
 - **Responsive UI**: Built with Material-UI (`@mui/icons-material`) and styled using `@emotion/react` and `@emotion/styled`.
 - **Enhanced User Experience**: Toast notifications via `react-hot-toast` and form handling using `react-hook-form`.
 
