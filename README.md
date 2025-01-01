@@ -1,11 +1,5 @@
 # A-Chat-App
 
-## Imbesideyou assignment
-- Name - Himanshu Raj
-- Roll No - 22B2510
-- University - IIT BOMBAY
-- Department - Metallurgical Engineering and Materials Science
-
 ## Overview
 A-Chat-App is a full-stack real-time messaging web application built using modern web development technologies. It includes core features like user authentication, one-on-one messaging, group chat functionality, and real-time updates. The application is deployed on [Vercel](https://a-chat-app.vercel.app/) for easy access.
 
